@@ -1,3 +1,5 @@
+2026-09-01 - Updated by Ganga and Llew
+
 # README – Standalone qgis2web Export
 
 This export is completely "self-contained".
